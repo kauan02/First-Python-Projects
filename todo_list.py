@@ -1,3 +1,6 @@
+# @Author: Kauan Rezende
+# @Date:   2023-05-23 10:53:18
+
 import PySimpleGUI as sg
 
 def create_new_task():
