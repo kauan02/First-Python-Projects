@@ -1,4 +1,6 @@
 #Gerenciador de senhas com Python - Kauan
+# @Author: Kauan Rezende
+# @Date:   2023-05-23 10:52:13
 
 import random 
 
